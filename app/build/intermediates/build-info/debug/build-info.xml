@@ -3,25 +3,25 @@
     abi="x86"
     api-level="28"
     build-mode="FULL"
-    density="560dpi"
+    density="xhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1527465536445"
+    timestamp="1527481459700"
     token="7096809535083023750"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="4562" />
+        duration="4002" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="533" />
+        duration="784" />
     <task
         name="verifier"
-        duration="173" />
+        duration="387" />
 
     <artifact
         location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
@@ -42,10 +42,10 @@
         location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
         location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
@@ -65,7 +65,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1527465536445"
+        timestamp="1527481459700"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
@@ -86,10 +86,10 @@
             location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/split-apk/debug/slices/slice_6.apk"

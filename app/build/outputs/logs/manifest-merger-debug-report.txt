@@ -4,24 +4,24 @@ ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:2:1-48:12
-MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:2:1-13:12
-MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.1.0.aar/f95e7e99a8982006750d3dc04655c63d/AndroidManifest.xml:2:1-10:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7d6c6549320ebbcfe3014e408687230/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fdc4da3b816b0561fb93857c09c8337d/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/d30b5461e6f9cf68bc250c2d66d602da/AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:2:1-14:12
-MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/b56284ff04563b2bce81aa6d5d805c6d/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a879c2cf286008c274e94b774f42f3fe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/55a0eee877c07e6d013a1e981edb1298/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b760aacc6f17580e7b91875bbd760d5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4863b699ecfd3f2ebbe871a1d4b2cef0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7c8fd1eb16c3febc7571d056324a5757/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be88acf3b749a8e6d5cc6480f3fec6f0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/8d14c6087875f9f4bab3bf4c77ec5881/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/016f120bcbb48a1d44df75a681c69734/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e68debdbb5cdaac965d18f903c02c20/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ef6f7721cf71563787fc58e734bc42/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fa5eb80a8a04402f9b864f47a5e07de9/AndroidManifest.xml:17:1-22:12
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:2:1-13:12
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.1.0.aar/9b78edc4f15f2d6f033bae123d825be4/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5a5112ca4f6c2bad10dbe98da2f71b22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/01342457d739471f8f3d387c70e1c07f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fe649559bea2a8c85304d7a4796e8a3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:2:1-14:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/fd4c15f7a432476891b1e85ebaaacac3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6fa9008a9992f10a41a20b490ca8d3d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/00c127f324142c1bd03e4c7ce11399c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b01eb3a300a7389bdce5dd152d363ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c42f8031508d52055666afe5ad494225/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dbe8bff372889fc36143c4d07de3b890/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4b83d8a2faac84eb4cd6786dc72cc6e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/61448177d1c0b8dde9a655fca3f385e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c6047ac944b1df8cf5053e7a20f29058/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/47bed2852fb5f5cfea12c07ff63e2a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9677774defac023fea6503f696808777/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/86a6806b479c9e086971748fc2c08c13/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:2:1-48:12
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:2:1-48:12
@@ -53,16 +53,16 @@ ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/
 		ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.INTERNET
 ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:8:5-67
-MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:11:5-67
-MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:8:22-64
 application
 ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:10:5-46:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fdc4da3b816b0561fb93857c09c8337d/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fdc4da3b816b0561fb93857c09c8337d/AndroidManifest.xml:9:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/01342457d739471f8f3d387c70e1c07f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/01342457d739471f8f3d387c70e1c07f/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:7:5-12:19
 	android:supportsRtl
 		ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
@@ -121,42 +121,42 @@ uses-sdk
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml
-MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:6:5-8:41
-MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:6:5-8:41
-MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.1.0.aar/f95e7e99a8982006750d3dc04655c63d/AndroidManifest.xml:6:5-8:41
-MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.1.0.aar/f95e7e99a8982006750d3dc04655c63d/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7d6c6549320ebbcfe3014e408687230/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7d6c6549320ebbcfe3014e408687230/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fdc4da3b816b0561fb93857c09c8337d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fdc4da3b816b0561fb93857c09c8337d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/d30b5461e6f9cf68bc250c2d66d602da/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/d30b5461e6f9cf68bc250c2d66d602da/AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:5:5-44
-MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/b56284ff04563b2bce81aa6d5d805c6d/AndroidManifest.xml:7:5-43
-MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/b56284ff04563b2bce81aa6d5d805c6d/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a879c2cf286008c274e94b774f42f3fe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a879c2cf286008c274e94b774f42f3fe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/55a0eee877c07e6d013a1e981edb1298/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/55a0eee877c07e6d013a1e981edb1298/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b760aacc6f17580e7b91875bbd760d5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b760aacc6f17580e7b91875bbd760d5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4863b699ecfd3f2ebbe871a1d4b2cef0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4863b699ecfd3f2ebbe871a1d4b2cef0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7c8fd1eb16c3febc7571d056324a5757/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7c8fd1eb16c3febc7571d056324a5757/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be88acf3b749a8e6d5cc6480f3fec6f0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be88acf3b749a8e6d5cc6480f3fec6f0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/8d14c6087875f9f4bab3bf4c77ec5881/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/8d14c6087875f9f4bab3bf4c77ec5881/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/016f120bcbb48a1d44df75a681c69734/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/016f120bcbb48a1d44df75a681c69734/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e68debdbb5cdaac965d18f903c02c20/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4e68debdbb5cdaac965d18f903c02c20/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ef6f7721cf71563787fc58e734bc42/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/66ef6f7721cf71563787fc58e734bc42/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fa5eb80a8a04402f9b864f47a5e07de9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fa5eb80a8a04402f9b864f47a5e07de9/AndroidManifest.xml:20:5-44
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.1.0.aar/9b78edc4f15f2d6f033bae123d825be4/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.1.0.aar/9b78edc4f15f2d6f033bae123d825be4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5a5112ca4f6c2bad10dbe98da2f71b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5a5112ca4f6c2bad10dbe98da2f71b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/01342457d739471f8f3d387c70e1c07f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/01342457d739471f8f3d387c70e1c07f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fe649559bea2a8c85304d7a4796e8a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fe649559bea2a8c85304d7a4796e8a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/fd4c15f7a432476891b1e85ebaaacac3/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/fd4c15f7a432476891b1e85ebaaacac3/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6fa9008a9992f10a41a20b490ca8d3d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6fa9008a9992f10a41a20b490ca8d3d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/00c127f324142c1bd03e4c7ce11399c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/00c127f324142c1bd03e4c7ce11399c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b01eb3a300a7389bdce5dd152d363ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b01eb3a300a7389bdce5dd152d363ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c42f8031508d52055666afe5ad494225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c42f8031508d52055666afe5ad494225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dbe8bff372889fc36143c4d07de3b890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/dbe8bff372889fc36143c4d07de3b890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4b83d8a2faac84eb4cd6786dc72cc6e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4b83d8a2faac84eb4cd6786dc72cc6e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/61448177d1c0b8dde9a655fca3f385e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/61448177d1c0b8dde9a655fca3f385e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c6047ac944b1df8cf5053e7a20f29058/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c6047ac944b1df8cf5053e7a20f29058/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/47bed2852fb5f5cfea12c07ff63e2a6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/47bed2852fb5f5cfea12c07ff63e2a6e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9677774defac023fea6503f696808777/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9677774defac023fea6503f696808777/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/86a6806b479c9e086971748fc2c08c13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/86a6806b479c9e086971748fc2c08c13/AndroidManifest.xml:20:5-44
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml
 INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -168,14 +168,14 @@ INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndro
 		ADDED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:10:5-79
+ADDED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/b9402a63e3dfc1ceda6e5d0edf1aaa9a/AndroidManifest.xml:10:22-76
+		ADDED from [io.realm:realm-android-library-object-server:5.1.0] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.1.0.aar/ffa00a3c2d3a5f58dfa4b4946429249f/AndroidManifest.xml:10:22-76
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/06c5ec02ad2568d250d7fd7d43fb509e/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/reycerio/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/b3e66ed72931e3f782beb1cf470ae5a8/AndroidManifest.xml:9:13-64

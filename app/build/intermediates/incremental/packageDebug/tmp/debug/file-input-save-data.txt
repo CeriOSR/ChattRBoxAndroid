@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 27 16:59:32 PDT 2018
+#Sun May 27 21:25:54 PDT 2018
 4.path=lib/x86/librealm-jni.so
 8.set=NATIVE_RESOURCE
 6.path=classes.dex

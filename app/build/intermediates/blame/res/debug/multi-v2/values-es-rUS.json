@@ -4,7 +4,7 @@
             "outputFile": "/Users/reycerio/AndroidStudioProjects/ChattRBox 2.0/ChattRBoxAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
-                    "source": "/Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/be88acf3b749a8e6d5cc6480f3fec6f0/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/Users/reycerio/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4b83d8a2faac84eb4cd6786dc72cc6e9/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7d6c6549320ebbcfe3014e408687230/res/values-es-rUS/values-es-rUS.xml",
+                    "source": "/Users/reycerio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5a5112ca4f6c2bad10dbe98da2f71b22/res/values-es-rUS/values-es-rUS.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

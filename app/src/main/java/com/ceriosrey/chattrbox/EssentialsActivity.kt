@@ -24,13 +24,13 @@ import java.util.*
 
 class EssentialsActivity : AppCompatActivity(), TextToSpeech.OnInitListener, EssentialsAdapter.onCellItemClickListener, EssentialsAdapter.onDeleteButtonClickListener {
 
-    var category: String? = null
-    var result: RealmResults<ChattRItem>? = null
-    var itemList: MutableList<ChattRBoxItems> = ArrayList()
-    var tts: TextToSpeech? = null
-    var readButton: Button? = null
-    var editMode: Boolean = false
-    var displayMetrics: DisplayMetrics? = null
+    private var category: String? = null
+    private var result: RealmResults<ChattRItem>? = null
+    private var itemList: MutableList<ChattRBoxItems> = ArrayList()
+    private var tts: TextToSpeech? = null
+    private var readButton: Button? = null
+    private var editMode: Boolean = false
+    private var displayMetrics: DisplayMetrics? = null
     private var internalStorageProvider: InternalStorageProvider? = null
 
 
@@ -147,7 +147,7 @@ class EssentialsActivity : AppCompatActivity(), TextToSpeech.OnInitListener, Ess
             }
             R.id.deleteItem_essential -> {
                 editMode = editMode == false
-                var text = "On"
+                var text: String?
                 if (editMode) {
                     text = "On"
                 } else {
@@ -184,7 +184,7 @@ class EssentialsActivity : AppCompatActivity(), TextToSpeech.OnInitListener, Ess
 
     override fun onCellClick(chattRItem: ChattRBoxItems) {
 
-        var currentText: String = editText_essentials.text.toString() + " " + chattRItem.itemName
+        val currentText: String = editText_essentials.text.toString() + " " + chattRItem.itemName
         editText_essentials.setText(currentText)
     }
 
