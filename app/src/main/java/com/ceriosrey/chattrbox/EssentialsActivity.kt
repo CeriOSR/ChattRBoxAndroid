@@ -13,6 +13,8 @@ import android.util.Log
 import android.view.*
 import android.widget.Button
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_essentials.*
+import kotlinx.android.synthetic.main.essentials_cells_layout.view.*
 import com.squareup.picasso.Picasso
 import io.realm.Realm
 import io.realm.RealmQuery

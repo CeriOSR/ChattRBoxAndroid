@@ -14,6 +14,8 @@ import android.util.DisplayMetrics
 import android.util.Log
 import android.view.*
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_people.*
+import kotlinx.android.synthetic.main.people_cell_layout.view.*
 import com.squareup.picasso.Picasso
 import io.realm.Realm
 import io.realm.RealmQuery
